@@ -15,7 +15,7 @@ Nuestro pequeño viaje digital estuvo compuesto por tres pasos:
     - `/api/category/nombreCategoría`: muestra los productos que hagan match entre su propiedad `category` y la categoría indicada en la URL ([ejemplo](https://live-coding-apr.herokuapp.com/api/category/furniture))
     - `/api/brand/nombreMarca`: muestra los productos que hagan match entre su propiedad `brand` y el fabricante  indicado en la URL ([ejemplo](https://live-coding-apr.herokuapp.com/api/brand/Apple))
 
-3. Desarrollo de un cliente con HTML, CSS y JS a través del que consumir la API, listando aquí el JSON de productos restornado por la misma y permitiendo aplicar filtros por marca y categoría. Disponible (en este enlace)[https://github.com/german-alvarez-dev/live-coding-apr-client]
+3. Desarrollo de un cliente con HTML, CSS y JS a través del que consumir la API, listando aquí el JSON de productos restornado por la misma y permitiendo aplicar filtros por marca y categoría. Disponible [en este enlace](https://github.com/german-alvarez-dev/live-coding-apr-client).
 
 ## Descarga de archivos
 
