@@ -1,4 +1,4 @@
-# Products API | Live coding April 2022 | Ironhack Madrid
+# Products API | Live coding April 2022 @ Ironhack Madrid
 
 Pequeña API REST de productos desarollada por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) en [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid) (abril 2022)
 
