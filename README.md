@@ -6,7 +6,7 @@ Pequeña API REST de productos desarollada por [Germán Álvarez](https://www.li
 
 Nuestro pequeño viaje digital estuvo compuesto por tres pasos:
 
-1. Desarrollo de una pequeña API REST de productos a través de [NodeJS](https://nodejs.org/es/) y [ExpressJS](https://expressjs.com/es/). Puedes encontrar los códigos desarrollados en este mismo repositorio. Si no conoces GIT, te dejo en las instrucciones infreriores cómo descargártelo.
+1. Desarrollo de una API REST de productos a través de [NodeJS](https://nodejs.org/es/) y [ExpressJS](https://expressjs.com/es/). Puedes encontrar los códigos desarrollados en este mismo repositorio. Si no conoces GIT, te dejo en las instrucciones infreriores cómo descargártelo.
 
 2. Paso a producción o _deploy_ de la API desarrollada en [Heroku](https://heroku.com), aprovechando su funcionalidad para realizar un _deploy_ a partir de este mismo repositorio. El enlace sobre el que subimos nuestro desarrollo [puedes accederlo aquí](https://live-coding-apr.herokuapp.com/), y los tres _endpoints_ que desarrollamos fueron los siguientes:
     - `/api/allProducts`: muestra todos los productos ([ejemplo](https://live-coding-apr.herokuapp.com/api/allProducts))
